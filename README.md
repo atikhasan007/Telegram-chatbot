@@ -46,4 +46,4 @@ However, message history can be logged and analyzed to improve AI responses over
 
 ---
 
-## Project Structure
+
